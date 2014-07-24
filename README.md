@@ -2,8 +2,6 @@ crazy-crypto
 ============
 
 "Crypto" is a small standalone windows application for encryption and decryption. 
-This small application got its inception from my final semester project named "Crypto-Tech" which was basically an email client with implicit encryption functionality. 
-
 
 Encryption: (Sender Side) 
 -------------------------
